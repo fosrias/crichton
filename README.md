@@ -386,14 +386,14 @@ helped crystallize ideas underlying Crichton. And, of course, thanks to all the 
 ## Copyright
 Copyright (c) 2013 Medidata Solutions Worldwide. See {file:LICENSE.md} for details.
 
-[documentation]: http://rubydoc.info/github/mdsol-share/crichton
+[documentation]: http://rubydoc.info/github/fosrias/crichton
 [demo service]: https://github.com/fosrias/crichton-demo-service
-[\#to_media_type]: http://rubydoc.info/github/mdsol-share/crichton/Crichton/Representor/Serialization/MediaType#to_media_type-instance_method
+[\#to_media_type]: http://rubydoc.info/github/fosrias/crichton/Crichton/Representor/Serialization/MediaType#to_media_type-instance_method
 [supported media-types]: #supported-media-types
-[Documentation]: http://rubydoc.info/github/mdsol-share/crichton
+[Documentation]: http://rubydoc.info/github/fosrias/crichton
 [Mike Amundsen]: https://twitter.com/mamund
 [Jon Moore]: https://twitter.com/jon_moore
-[contributors]: https://github.com/mdsol-share/crichton/graphs/contributors
+[contributors]: https://github.com/fosrias/crichton/graphs/contributors
 
-[\#build_representor]: http://rubydoc.info/github/mdsol-share/crichton/Crichton/Representor/Factory#build_representor-instance_method
-[\#build_state_representor]: http://rubydoc.info/github/mdsol-share/crichton/Crichton/Representor/Factory#build_state_representor-instance_method
+[\#build_representor]: http://rubydoc.info/github/fosrias/crichton/Crichton/Representor/Factory#build_representor-instance_method
+[\#build_state_representor]: http://rubydoc.info/github/fosrias/crichton/Crichton/Representor/Factory#build_state_representor-instance_method
