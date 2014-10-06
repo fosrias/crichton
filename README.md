@@ -1,6 +1,6 @@
 # Crichton
 
-<!---[![Build Status](https://travis-ci.org/mdsol/crichton.svg)](https://travis-ci.org/mdsol/crichton)--->
+<!---[![Build Status](https://travis-ci.org/mdsol/crichton.svg)](https://travis-ci.org/mdsol/crichton)-->
 
 Crichton is a library to simplify implementing Hypermedia APIs. It has the knowledge of Hypermedia from the Ancients.
 
@@ -127,7 +127,7 @@ There are a couple of options for defining the implementing state-machine functi
       
       # Other methods ...
     end
-```
+    ```
 
 If a class does not implement a `state` instance method, but includes `Crichton::Representor` 
 or `Crichton::Representor::State` module, Crichton assumes that resource has only one `default` state. 
